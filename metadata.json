@@ -1,0 +1,7 @@
+{
+  "name": "Keeper of Journeys Invoice Generator",
+  "description": "Transforms rough travel notes, photos, and voice recordings into professional car-hire invoices using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
